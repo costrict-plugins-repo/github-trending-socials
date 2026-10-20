@@ -1,0 +1,8 @@
+{
+  "name": "socials",
+  "description": "Connect Claude to X, LinkedIn, Reddit, and YouTube (browser open, navigate, scroll) via the Socials browser extension. Post, engage, search, and manage social media directly from Claude Code.",
+  "author": {
+    "name": "Brainrot Creations",
+    "email": "support@brainrotcreations.com"
+  }
+}
